@@ -8,5 +8,5 @@ Skills acquired : HTML, CSS, Visual Design, Accessibility
 1. Tribute Page: https://codepen.io/gayathri1462/full/MWrxQbv
 2. Survey Page: https://codepen.io/gayathri1462/full/GRyLROm
 3. Product Landing Page: https://codepen.io/gayathri1462/full/rNpbbJx
-4. Technical Documentation Page
+4. Technical Documentation Page: https://codepen.io/gayathri1462/full/QWaPeLV
 5. Personal Portfolio Page
